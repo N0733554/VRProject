@@ -1,0 +1,991 @@
+﻿Log file open, 02/04/20 17:01:47
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: FlockingTest
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.222476
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin NiagaraExtras
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-10757647
+LogInit: Engine Version: 4.24.1-10757647+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Dec 17 2019 02:08:03
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: F:/Games/Epic/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.02.04-17.01.47:737][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.02.04-17.01.47:737][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.02.04-17.01.47:737][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/User.USER-PC/Documents/Unreal Projects/FlockingTest/Saved/Config/Windows/Engine.ini]
+[2020.02.04-17.01.47:737][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.02.04-17.01.47:737][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/User.USER-PC/Documents/Unreal Projects/FlockingTest/Saved/Config/Windows/Engine.ini]
+[2020.02.04-17.01.47:737][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/User.USER-PC/Documents/Unreal Projects/FlockingTest/Saved/Config/Windows/Engine.ini]
+[2020.02.04-17.01.47:737][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.02.04-17.01.47:737][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.02.04-17.01.47:737][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.02.04-17.01.47:737][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.02.04-17.01.47:737][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.02.04-17.01.47:737][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.02.04-17.01.47:737][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.02.04-17.01.47:737][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.02.04-17.01.47:737][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.02.04-17.01.47:737][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.02.04-17.01.47:737][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.02.04-17.01.47:737][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.02.04-17.01.47:737][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.02.04-17.01.47:737][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.02.04-17.01.47:737][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/User.USER-PC/Documents/Unreal Projects/FlockingTest/Saved/Config/Windows/Engine.ini]
+[2020.02.04-17.01.47:737][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.02.04-17.01.47:737][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.02.04-17.01.47:737][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.02.04-17.01.47:737][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.02.04-17.01.47:737][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.02.04-17.01.47:737][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.02.04-17.01.47:737][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.02.04-17.01.47:737][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.02.04-17.01.47:737][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.02.04-17.01.47:737][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.02.04-17.01.47:737][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.02.04-17.01.47:737][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.02.04-17.01.47:737][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.02.04-17.01.47:738][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/User.USER-PC/Documents/Unreal Projects/FlockingTest/Saved/Config/Windows/Engine.ini]
+[2020.02.04-17.01.47:738][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/User.USER-PC/Documents/Unreal Projects/FlockingTest/Saved/Config/Windows/Engine.ini]
+[2020.02.04-17.01.47:741][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/User.USER-PC/Documents/Unreal Projects/FlockingTest/Saved/Config/Windows/Scalability.ini]
+[2020.02.04-17.01.47:741][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.04-17.01.47:741][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.04-17.01.47:741][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/User.USER-PC/Documents/Unreal Projects/FlockingTest/Saved/Config/Windows/Scalability.ini]
+[2020.02.04-17.01.47:741][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.04-17.01.47:741][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/User.USER-PC/Documents/Unreal Projects/FlockingTest/Saved/Config/Windows/Scalability.ini]
+[2020.02.04-17.01.47:741][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.04-17.01.47:741][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.04-17.01.47:741][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.04-17.01.47:741][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.04-17.01.47:741][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.04-17.01.47:741][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.04-17.01.47:741][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.04-17.01.47:741][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.04-17.01.47:741][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.04-17.01.47:742][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.04-17.01.47:742][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.04-17.01.47:742][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.04-17.01.47:742][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.04-17.01.47:742][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.04-17.01.47:742][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.04-17.01.47:742][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.04-17.01.47:742][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.04-17.01.47:742][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.04-17.01.47:742][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/User.USER-PC/Documents/Unreal Projects/FlockingTest/Saved/Config/Windows/Scalability.ini]
+[2020.02.04-17.01.47:742][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.04-17.01.47:742][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.04-17.01.47:742][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.04-17.01.47:742][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.04-17.01.47:742][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.04-17.01.47:742][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.04-17.01.47:742][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.04-17.01.47:742][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.04-17.01.47:742][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.04-17.01.47:742][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.04-17.01.47:742][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.04-17.01.47:742][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.04-17.01.47:742][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.04-17.01.47:742][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.04-17.01.47:742][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.04-17.01.47:742][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.04-17.01.47:742][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.04-17.01.47:742][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.04-17.01.47:742][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.04-17.01.47:742][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.04-17.01.47:742][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.04-17.01.47:742][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.04-17.01.47:742][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.04-17.01.47:742][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.04-17.01.47:742][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.04-17.01.47:742][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.04-17.01.47:742][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.04-17.01.47:742][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.04-17.01.47:742][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.04-17.01.47:742][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.04-17.01.47:742][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/User.USER-PC/Documents/Unreal Projects/FlockingTest/Saved/Config/Windows/Scalability.ini]
+[2020.02.04-17.01.47:742][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.04-17.01.47:742][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.04-17.01.47:742][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.04-17.01.47:742][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.04-17.01.47:743][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.04-17.01.47:743][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.02.04-17.01.47:743][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.04-17.01.47:743][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.04-17.01.47:743][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.04-17.01.47:743][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/User.USER-PC/Documents/Unreal Projects/FlockingTest/Saved/Config/Windows/Scalability.ini]
+[2020.02.04-17.01.47:743][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.04-17.01.47:743][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.04-17.01.47:743][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.04-17.01.47:743][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.02.04-17.01.47:743][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.04-17.01.47:743][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.04-17.01.47:743][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.04-17.01.47:743][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.04-17.01.47:743][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.04-17.01.47:743][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.04-17.01.47:743][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.04-17.01.47:743][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.04-17.01.47:743][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.02.04-17.01.47:743][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.04-17.01.47:743][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.04-17.01.47:743][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.02.04-17.01.47:743][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.02.04-17.01.47:743][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.02.04-17.01.47:743][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.02.04-17.01.47:743][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.02.04-17.01.47:743][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.02.04-17.01.47:743][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.02.04-17.01.47:743][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.02.04-17.01.47:743][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.02.04-17.01.47:743][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.02.04-17.01.47:743][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.02.04-17.01.47:743][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/User.USER-PC/Documents/Unreal Projects/FlockingTest/Saved/Config/Windows/Scalability.ini]
+[2020.02.04-17.01.47:743][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.04-17.01.47:743][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.04-17.01.47:743][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/User.USER-PC/Documents/Unreal Projects/FlockingTest/Saved/Config/Windows/Scalability.ini]
+[2020.02.04-17.01.47:743][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.02.04-17.01.47:743][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.02.04-17.01.47:743][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.02.04-17.01.47:743][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.04-17.01.47:743][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.02.04-17.01.47:746][  0]LogHAL: Display: Platform has ~ 16 GB [17078288384 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.02.04-17.01.47:747][  0]LogInit: Going up to parent DeviceProfile []
+[2020.02.04-17.01.47:747][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/User.USER-PC/Documents/Unreal Projects/FlockingTest/Saved/Config/Windows/Scalability.ini]
+[2020.02.04-17.01.47:747][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.04-17.01.47:747][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.04-17.01.47:747][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/User.USER-PC/Documents/Unreal Projects/FlockingTest/Saved/Config/Windows/Scalability.ini]
+[2020.02.04-17.01.47:747][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.04-17.01.47:747][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/User.USER-PC/Documents/Unreal Projects/FlockingTest/Saved/Config/Windows/Scalability.ini]
+[2020.02.04-17.01.47:747][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.04-17.01.47:747][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.04-17.01.47:747][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.04-17.01.47:747][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.04-17.01.47:747][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.04-17.01.47:747][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.04-17.01.47:747][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.04-17.01.47:747][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.04-17.01.47:747][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.04-17.01.47:747][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.04-17.01.47:747][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.04-17.01.47:747][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.04-17.01.47:747][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.04-17.01.47:747][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.04-17.01.47:747][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.04-17.01.47:747][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.04-17.01.47:747][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.04-17.01.47:747][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.04-17.01.47:747][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/User.USER-PC/Documents/Unreal Projects/FlockingTest/Saved/Config/Windows/Scalability.ini]
+[2020.02.04-17.01.47:747][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.04-17.01.47:747][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.04-17.01.47:747][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.04-17.01.47:747][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.04-17.01.47:747][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.04-17.01.47:747][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.04-17.01.47:747][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.04-17.01.47:747][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.04-17.01.47:747][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.04-17.01.47:747][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.04-17.01.47:747][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.04-17.01.47:747][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.04-17.01.47:747][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.04-17.01.47:747][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.04-17.01.47:747][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.04-17.01.47:747][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.04-17.01.47:747][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.04-17.01.47:747][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.04-17.01.47:747][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.04-17.01.47:747][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.04-17.01.47:748][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.04-17.01.47:748][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.04-17.01.47:748][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.04-17.01.47:748][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.04-17.01.47:748][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.04-17.01.47:748][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.04-17.01.47:748][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.04-17.01.47:748][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.04-17.01.47:748][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.04-17.01.47:748][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.04-17.01.47:748][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/User.USER-PC/Documents/Unreal Projects/FlockingTest/Saved/Config/Windows/Scalability.ini]
+[2020.02.04-17.01.47:748][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.04-17.01.47:748][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.04-17.01.47:748][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.04-17.01.47:748][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.04-17.01.47:748][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.04-17.01.47:748][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.02.04-17.01.47:748][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.04-17.01.47:748][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.04-17.01.47:748][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.04-17.01.47:748][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/User.USER-PC/Documents/Unreal Projects/FlockingTest/Saved/Config/Windows/Scalability.ini]
+[2020.02.04-17.01.47:748][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.04-17.01.47:748][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.04-17.01.47:748][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.04-17.01.47:748][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.02.04-17.01.47:748][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.04-17.01.47:748][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.04-17.01.47:748][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.04-17.01.47:748][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.04-17.01.47:748][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.04-17.01.47:748][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.04-17.01.47:748][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.04-17.01.47:748][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.04-17.01.47:748][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.02.04-17.01.47:748][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.04-17.01.47:748][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.04-17.01.47:748][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.02.04-17.01.47:748][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.02.04-17.01.47:748][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.02.04-17.01.47:748][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.02.04-17.01.47:748][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.02.04-17.01.47:748][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.02.04-17.01.47:748][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.02.04-17.01.47:748][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.02.04-17.01.47:748][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.02.04-17.01.47:748][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.02.04-17.01.47:748][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.02.04-17.01.47:748][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/User.USER-PC/Documents/Unreal Projects/FlockingTest/Saved/Config/Windows/Scalability.ini]
+[2020.02.04-17.01.47:748][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.04-17.01.47:748][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.04-17.01.47:748][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/User.USER-PC/Documents/Unreal Projects/FlockingTest/Saved/Config/Windows/Scalability.ini]
+[2020.02.04-17.01.47:748][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.02.04-17.01.47:748][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.02.04-17.01.47:748][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.02.04-17.01.47:748][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.02.04-17.01.47:750][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.02.04-17.01.47:750][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.02.04-17.01.47:750][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.02.04-17.01.47:750][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/User.USER-PC/Documents/Unreal Projects/FlockingTest/Saved/Config/Windows/Engine.ini]
+[2020.02.04-17.01.47:750][  0]LogInit: Computer: USER-PC
+[2020.02.04-17.01.47:750][  0]LogInit: User: User
+[2020.02.04-17.01.47:750][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.02.04-17.01.47:750][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.02.04-17.01.47:750][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.02.04-17.01.47:750][  0]LogMemory: Platform Memory Stats for Windows
+[2020.02.04-17.01.47:750][  0]LogMemory: Process Physical Memory: 104.98 MB used, 104.98 MB peak
+[2020.02.04-17.01.47:750][  0]LogMemory: Process Virtual Memory: 100.07 MB used, 100.07 MB peak
+[2020.02.04-17.01.47:750][  0]LogMemory: Physical Memory: 6277.14 MB used,  10009.98 MB free, 16287.13 MB total
+[2020.02.04-17.01.47:750][  0]LogMemory: Virtual Memory: 5122.16 MB used,  134212608.00 MB free, 134217728.00 MB total
+[2020.02.04-17.01.47:755][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.02.04-17.01.47:801][  0]LogInit: Using OS detected language (en-GB).
+[2020.02.04-17.01.47:801][  0]LogInit: Using OS detected locale (en-GB).
+[2020.02.04-17.01.47:803][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.02.04-17.01.48:158][  0]LogInit: Setting process to per monitor DPI aware
+[2020.02.04-17.01.48:196][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.02.04-17.01.48:196][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.02.04-17.01.48:497][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.04-17.01.48:497][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.02.04-17.01.48:497][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.02.04-17.01.48:497][  0]LogD3D11RHI: D3D11 adapters:
+[2020.02.04-17.01.48:572][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2020.02.04-17.01.48:572][  0]LogD3D11RHI:       8079/0/8143 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.02.04-17.01.48:574][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.02.04-17.01.48:575][  0]LogD3D11RHI:       0/0/8143 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.02.04-17.01.48:575][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.02.04-17.01.48:581][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.02.04-17.01.48:581][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2020.02.04-17.01.48:581][  0]LogWindows: EnumDisplayDevices:
+[2020.02.04-17.01.48:581][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2020.02.04-17.01.48:581][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.02.04-17.01.48:582][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.02.04-17.01.48:582][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.02.04-17.01.48:582][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.02.04-17.01.48:582][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2020.02.04-17.01.48:582][  0]LogD3D11RHI:   Driver Version: 441.41 (internal:26.21.14.4141, unified:441.41)
+[2020.02.04-17.01.48:582][  0]LogD3D11RHI:      Driver Date: 11-20-2019
+[2020.02.04-17.01.48:582][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2020.02.04-17.01.48:632][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.02.04-17.01.48:632][  0]LogD3D11RHI: Async texture creation enabled
+[2020.02.04-17.01.48:646][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.02.04-17.01.49:393][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.02.04-17.01.49:428][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.02.04-17.01.49:428][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.02.04-17.01.49:428][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.02.04-17.01.49:428][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.02.04-17.01.49:428][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.02.04-17.01.49:428][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.02.04-17.01.49:428][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.02.04-17.01.49:428][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.02.04-17.01.49:428][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.02.04-17.01.49:428][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.02.04-17.01.49:428][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.02.04-17.01.49:428][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.02.04-17.01.49:428][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.02.04-17.01.49:428][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.02.04-17.01.49:428][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.02.04-17.01.49:428][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.02.04-17.01.49:428][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.02.04-17.01.49:428][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.02.04-17.01.49:449][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.02.04-17.01.49:449][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.02.04-17.01.49:457][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.02.04-17.01.49:465][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.02.04-17.01.49:473][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.02.04-17.01.49:481][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.02.04-17.01.49:489][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.02.04-17.01.49:498][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.02.04-17.01.49:528][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.02.04-17.01.49:528][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.02.04-17.01.49:544][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.02.04-17.01.49:544][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.02.04-17.01.49:553][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.02.04-17.01.49:562][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.02.04-17.01.49:570][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.02.04-17.01.49:577][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.02.04-17.01.49:577][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.02.04-17.01.49:581][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.02.04-17.01.49:602][  0]LogShaderCompilers: Guid format shader working directory is -8 characters bigger than the processId version (C:/Users/User.USER-PC/Documents/Unreal Projects/FlockingTest/Intermediate/Shaders/WorkingDirectory/11376/).
+[2020.02.04-17.01.49:602][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/User.USER-PC/AppData/Local/Temp/UnrealShaderWorkingDir/7586925D400B13F3B9CF7F9DBAC75289/'.
+[2020.02.04-17.01.49:602][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.02.04-17.01.49:603][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.02.04-17.01.49:603][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.02.04-17.01.50:489][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.02.04-17.01.50:567][  0]LogDerivedDataCache: Loaded boot cache 0.08s 113MB C:/Users/User.USER-PC/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.02.04-17.01.50:567][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/User.USER-PC/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.02.04-17.01.50:567][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/User.USER-PC/Documents/Unreal Projects/FlockingTest/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.02.04-17.01.50:567][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.02.04-17.01.50:567][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/User.USER-PC/Documents/Unreal Projects/FlockingTest/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.04-17.01.50:567][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.02.04-17.01.50:578][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.02.04-17.01.50:579][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.04-17.01.50:579][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.02.04-17.01.50:580][  0]LogDerivedDataCache: Using Local data cache path C:/Users/User.USER-PC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.02.04-17.01.50:580][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.02.04-17.01.50:580][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.02.04-17.01.50:607][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.02.04-17.01.50:610][  0]LogSlate: Using FreeType 2.10.0
+[2020.02.04-17.01.50:610][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.02.04-17.01.50:684][  0]LogAssetRegistry: FAssetRegistry took 0.0025 seconds to start up
+[2020.02.04-17.01.50:988][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.04-17.01.51:178][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.02.04-17.01.51:178][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.02.04-17.01.51:178][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.02.04-17.01.51:178][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.02.04-17.01.51:178][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.02.04-17.01.51:192][  0]LogNetVersion: FlockingTest 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 4224518920)
+[2020.02.04-17.01.52:605][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.056272 seconds
+[2020.02.04-17.01.52:613][  0]LogUObjectArray: 46775 objects as part of root set at end of initial load.
+[2020.02.04-17.01.52:613][  0]LogUObjectAllocator: 8142024 out of 0 bytes used by permanent object pool.
+[2020.02.04-17.01.52:613][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.02.04-17.01.53:119][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.02.04-17.01.53:122][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.02.04-17.01.53:178][  0]SourceControl: Source control is disabled
+[2020.02.04-17.01.53:178][  0]SourceControl: Source control is disabled
+[2020.02.04-17.01.53:179][  0]SourceControl: Source control is disabled
+[2020.02.04-17.01.53:180][  0]SourceControl: Source control is disabled
+[2020.02.04-17.01.53:181][  0]SourceControl: Source control is disabled
+[2020.02.04-17.01.53:273][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.02.04-17.01.53:284][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.02.04-17.01.53:284][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.02.04-17.01.53:387][  0]LogOcInput: OculusInput pre-init called
+[2020.02.04-17.01.53:394][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.02.04-17.01.53:394][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.02.04-17.01.53:473][  0]LogEngine: Initializing Engine...
+[2020.02.04-17.01.53:474][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.04-17.01.53:476][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.02.04-17.01.53:897][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.02.04-17.01.53:902][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.02.04-17.01.53:920][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.04-17.01.53:920][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.04-17.01.53:920][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.04-17.01.53:920][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.04-17.01.53:920][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.04-17.01.53:920][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.04-17.01.53:920][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.04-17.01.53:920][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.04-17.01.53:920][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.04-17.01.53:920][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.04-17.01.53:940][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.04-17.01.53:940][  0]LogAudioMixer: Display: Name: Headset Earphone (Sennheiser Communication Audio)
+[2020.02.04-17.01.53:940][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.02.04-17.01.53:940][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.04-17.01.53:940][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.04-17.01.53:940][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.04-17.01.53:940][  0]LogAudioMixer: Display: Channel Order:
+[2020.02.04-17.01.53:940][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.04-17.01.53:940][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.02.04-17.01.53:956][  0]LogAudioMixer: Display: Using Audio Device Headset Earphone (Sennheiser Communication Audio)
+[2020.02.04-17.01.53:961][  0]LogInit: FAudioDevice initialized.
+[2020.02.04-17.01.53:961][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.02.04-17.01.54:048][  0]LogDerivedDataCache: Saved boot cache 0.09s 91MB C:/Users/User.USER-PC/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.02.04-17.01.54:053][  0]LogInit: Texture streaming: Enabled
+[2020.02.04-17.01.54:065][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.02.04-17.01.54:065][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={3E15D0A0-4194-D09C-37C5-66B0BB255A2C}
+[2020.02.04-17.01.54:065][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.02.04-17.01.54:067][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.02.04-17.01.54:117][  0]LogInit: Transaction tracking system initialized
+[2020.02.04-17.01.54:126][  0]BlueprintLog: New page: Editor Load
+[2020.02.04-17.01.54:157][  0]LocalizationService: Localization service is disabled
+[2020.02.04-17.01.54:462][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User.USER-PC/Documents/Unreal Projects/FlockingTest/Content/' took 0.00s
+[2020.02.04-17.01.54:462][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.02.04-17.01.54:462][  0]LogCook: Display: Mobile HDR setting 1
+[2020.02.04-17.01.55:387][  0]SourceControl: Source control is disabled
+[2020.02.04-17.01.55:520][  0]LogSlate: Took 0.000299 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.02.04-17.02.05:730][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2020.02.04-17.02.05:731][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.02.04-17.02.05:732][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.02.04-17.02.10:070][  0]LogSlate: Window 'Unable to Check Out From Source Control!' being destroyed
+[2020.02.04-17.02.10:070][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.02.04-17.02.10:072][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.02.04-17.02.10:096][  0]Cmd: MAP LOAD FILE="C:/Users/User.USER-PC/Documents/Unreal Projects/FlockingTest/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.04-17.02.10:097][  0]LightingResults: New page: Lighting Build
+[2020.02.04-17.02.10:097][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.02.04-17.02.10:098][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.04-17.02.10:098][  0]MapCheck: New page: Map Check
+[2020.02.04-17.02.10:098][  0]LightingResults: New page: Lighting Build
+[2020.02.04-17.02.10:123][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2020.02.04-17.02.10:273][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.02.04-17.02.10:278][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.04-17.02.10:307][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2020.02.04-17.02.10:307][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.04-17.02.10:308][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.199ms to complete.
+[2020.02.04-17.02.10:308][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.211
+[2020.02.04-17.02.10:394][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.04-17.02.10:402][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.04-17.02.10:410][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.04-17.02.10:417][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.04-17.02.10:421][  0]LogCollectionManager: Loaded 0 collections in 0.000995 seconds
+[2020.02.04-17.02.10:435][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User.USER-PC/Documents/Unreal Projects/FlockingTest/Saved/Collections/' took 0.00s
+[2020.02.04-17.02.10:435][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User.USER-PC/Documents/Unreal Projects/FlockingTest/Content/Developers/User/Collections/' took 0.00s
+[2020.02.04-17.02.10:435][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User.USER-PC/Documents/Unreal Projects/FlockingTest/Content/Collections/' took 0.00s
+[2020.02.04-17.02.10:435][  0]LogContentBrowser: Native class hierarchy populated in 0.0089 seconds. Added 3165 classes and 735 folders.
+[2020.02.04-17.02.10:437][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.02.04-17.02.10:543][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.02.04-17.02.10:546][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2020.02.04-17.02.10:594][  0]LogSlate: Took 0.000323 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.02.04-17.02.10:599][  0]LogSlate: Took 0.000389 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.02.04-17.02.10:648][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2020.02.04-17.02.10:736][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.02.04-17.02.10:736][  0]LogLoad: (Engine Initialization) Total time: 27.80 seconds
+[2020.02.04-17.02.10:736][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.02.04-17.02.10:794][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.02.04-17.02.10:811][  0]LogSlate: Took 0.000364 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.04-17.02.10:843][  1]LogAssetRegistry: Asset discovery search completed in 20.1592 seconds
+[2020.02.04-17.02.10:847][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000009 seconds (updated 0 objects)
+[2020.02.04-17.02.11:770][101]LogSlate: Took 0.000313 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.04-17.02.17:234][697]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.02.04-17.02.18:888][697]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.04-17.02.19:010][697]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.02.04-17.02.19:043][697]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.02.04-17.02.19:069][697]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.02.04-17.02.25:820][483]LogAssetEditorSubsystem: Opening Asset editor for NiagaraScript /Game/ParticleSystems/GenerateLocationEvent.GenerateLocationEvent
+[2020.02.04-17.02.25:926][483]MaterialEditorStats: LastOpCount: 0
+[2020.02.04-17.02.25:958][483]48093DF045320A04E5CBC7B79405C2EE_GenerateLocationEvent_MessageLog: Error: Before the Particles.ID parameter can be used, the 'Requires persistent IDs' option has to be activated in the emitter properties. Note that this comes with additional memory and CPU costs. - 
+[2020.02.04-17.02.25:958][483]48093DF045320A04E5CBC7B79405C2EE_GenerateLocationEvent_MessageLog: Script successfully compiled.
+[2020.02.04-17.02.25:963][483]LogSlate: Took 0.000311 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.02.04-17.02.31:735][ 14]LogSlate: Window 'GenerateLocationEvent' being destroyed
+[2020.02.04-17.02.33:450][184]LogNiagaraEditor: Verbose: '/Game/ParticleSystems/System' Precompile took 0.044583 sec.
+[2020.02.04-17.02.33:469][184]LogAssetEditorSubsystem: Opening Asset editor for NiagaraSystem /Game/ParticleSystems/System.System
+[2020.02.04-17.02.33:833][184]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:RibbonEmitter(1)_1.SpawnScript_7
+[2020.02.04-17.02.33:833][184]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:RibbonEmitter(1)_1.UpdateScript_8
+[2020.02.04-17.02.33:833][184]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:RibbonEmitter(1)_1.EmitterSpawnScript_9
+[2020.02.04-17.02.33:833][184]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:RibbonEmitter(1)_1.EmitterUpdateScript_10
+[2020.02.04-17.02.33:833][184]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:RibbonEmitter(1)_1.EventScript_12
+[2020.02.04-17.02.33:907][184]60029_System_MessageLog: System successfully compiled.
+[2020.02.04-17.02.33:966][184]LogRenderer: Reallocating scene render targets to support 1208x664 Format 10 NumSamples 1 (Frame:1).
+[2020.02.04-17.02.33:983][185]60029_System_MessageLog: System successfully compiled.
+[2020.02.04-17.02.46:564][108]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:SystemSpawnScript
+[2020.02.04-17.02.46:564][108]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:SystemUpdateScript
+[2020.02.04-17.02.46:564][108]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:RibbonEmitter(1)_1.SpawnScript_7
+[2020.02.04-17.02.46:564][108]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:RibbonEmitter(1)_1.UpdateScript_8
+[2020.02.04-17.02.46:564][108]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:RibbonEmitter(1)_1.EmitterSpawnScript_9
+[2020.02.04-17.02.46:564][108]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:RibbonEmitter(1)_1.EmitterUpdateScript_10
+[2020.02.04-17.02.46:564][108]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:RibbonEmitter(1)_1.EventScript_12
+[2020.02.04-17.02.46:654][108]LogNiagaraEditor: Verbose: '/Game/ParticleSystems/System' Precompile took 0.089899 sec.
+[2020.02.04-17.02.46:787][109]60029_System_MessageLog: System successfully compiled.
+[2020.02.04-17.02.47:484][160]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:SystemSpawnScript
+[2020.02.04-17.02.47:484][160]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:SystemUpdateScript
+[2020.02.04-17.02.47:484][160]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:RibbonEmitter(1)_1.SpawnScript_7
+[2020.02.04-17.02.47:484][160]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:RibbonEmitter(1)_1.UpdateScript_8
+[2020.02.04-17.02.47:484][160]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:RibbonEmitter(1)_1.EmitterSpawnScript_9
+[2020.02.04-17.02.47:484][160]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:RibbonEmitter(1)_1.EmitterUpdateScript_10
+[2020.02.04-17.02.47:484][160]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:RibbonEmitter(1)_1.EventScript_12
+[2020.02.04-17.02.47:548][160]LogNiagaraEditor: Verbose: '/Game/ParticleSystems/System' Precompile took 0.064432 sec.
+[2020.02.04-17.02.47:561][160]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:RibbonEmitter(1)_1.SpawnScript_7
+[2020.02.04-17.02.47:561][160]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:RibbonEmitter(1)_1.UpdateScript_8
+[2020.02.04-17.02.47:561][160]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:RibbonEmitter(1)_1.EmitterSpawnScript_9
+[2020.02.04-17.02.47:561][160]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:RibbonEmitter(1)_1.EmitterUpdateScript_10
+[2020.02.04-17.02.47:561][160]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:RibbonEmitter(1)_1.EventScript_12
+[2020.02.04-17.02.47:656][161]60029_System_MessageLog: System successfully compiled.
+[2020.02.04-17.02.53:658][593]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:SystemSpawnScript
+[2020.02.04-17.02.53:658][593]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:SystemUpdateScript
+[2020.02.04-17.02.53:658][593]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:RibbonEmitter(1)_1.SpawnScript_7
+[2020.02.04-17.02.53:658][593]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:RibbonEmitter(1)_1.UpdateScript_8
+[2020.02.04-17.02.53:658][593]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:RibbonEmitter(1)_1.EmitterSpawnScript_9
+[2020.02.04-17.02.53:658][593]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:RibbonEmitter(1)_1.EmitterUpdateScript_10
+[2020.02.04-17.02.53:658][593]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:RibbonEmitter(1)_1.EventScript_12
+[2020.02.04-17.02.53:750][593]LogNiagaraEditor: Verbose: '/Game/ParticleSystems/System' Precompile took 0.091642 sec.
+[2020.02.04-17.02.53:872][594]60029_System_MessageLog: System successfully compiled.
+[2020.02.04-17.02.54:691][650]LogNiagaraEditor: Verbose: '/Game/ParticleSystems/System' Precompile took 0.070790 sec.
+[2020.02.04-17.02.54:753][651]60029_System_MessageLog: System successfully compiled.
+[2020.02.04-17.02.55:024][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ParticleSystems/System" FILE="C:/Users/User.USER-PC/Documents/Unreal Projects/FlockingTest/Content/ParticleSystems/System.uasset" SILENT=true
+[2020.02.04-17.02.55:221][670]LogSavePackage: Moving 'C:/Users/User.USER-PC/Documents/Unreal Projects/FlockingTest/Saved/System07B9FCF5469A8D4990A22F8C8AE10C9D.tmp' to 'C:/Users/User.USER-PC/Documents/Unreal Projects/FlockingTest/Content/ParticleSystems/System.uasset'
+[2020.02.04-17.02.55:239][670]AssetCheck: New page: Asset Save: System
+[2020.02.04-17.02.55:239][670]LogContentValidation: Display: Validating NiagaraSystem /Game/ParticleSystems/System.System
+[2020.02.04-17.03.25:206][864]LogAssetEditorSubsystem: Opening Asset editor for NiagaraEmitter /Game/ParticleSystems/InfluencerEmitter.InfluencerEmitter
+[2020.02.04-17.03.25:406][864]69047_NiagaraSystem_0_MessageLog: System compile status unknown with 0 warning(s) and 0 error(s).
+[2020.02.04-17.03.25:474][864]LogNiagaraEditor: Verbose: '/Engine/Transient' Precompile took 0.066398 sec.
+[2020.02.04-17.03.25:514][864]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemSpawnScript ...................................................................
+[2020.02.04-17.03.25:514][864]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemUpdateScript ...................................................................
+[2020.02.04-17.03.25:549][865]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemSpawnScript took 0.060067 sec (0.003224/0.056711)... Status NCS_UpToDate
+[2020.02.04-17.03.25:576][865]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemSpawnScript' was built locally..
+[2020.02.04-17.03.25:659][867]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemUpdateScript took 0.163601 sec (0.010563/0.103598)... Status NCS_UpToDate
+[2020.02.04-17.03.25:659][867]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemUpdateScript' was built locally..
+[2020.02.04-17.03.25:764][869]69047_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2020.02.04-17.03.30:166][184]LogNiagaraEditor: Verbose: '/Engine/Transient' Precompile took 0.069476 sec.
+[2020.02.04-17.03.30:210][185]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemSpawnScript ...................................................................
+[2020.02.04-17.03.30:210][185]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemUpdateScript ...................................................................
+[2020.02.04-17.03.30:224][186]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemSpawnScript took 0.055248 sec (0.003074/0.052113)... Status NCS_UpToDate
+[2020.02.04-17.03.30:226][186]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemSpawnScript' was built locally..
+[2020.02.04-17.03.30:349][195]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemUpdateScript took 0.180439 sec (0.009848/0.125251)... Status NCS_UpToDate
+[2020.02.04-17.03.30:349][195]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemUpdateScript' was built locally..
+[2020.02.04-17.03.30:427][197]69047_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2020.02.04-17.03.33:184][404]LogNiagaraEditor: Verbose: '/Engine/Transient' Precompile took 0.063909 sec.
+[2020.02.04-17.03.33:225][405]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:InfluencerEmitter.SpawnScript ...................................................................
+[2020.02.04-17.03.33:226][405]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:InfluencerEmitter.UpdateScript ...................................................................
+[2020.02.04-17.03.33:447][421]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:InfluencerEmitter.SpawnScript took 0.251536 sec (0.013473/0.237939)... Status NCS_UpToDate
+[2020.02.04-17.03.33:452][421]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:InfluencerEmitter.SpawnScript' was built locally..
+[2020.02.04-17.03.33:510][425]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:InfluencerEmitter.UpdateScript took 0.320814 sec (0.016942/0.069560)... Status NCS_UpToDate
+[2020.02.04-17.03.33:515][425]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:InfluencerEmitter.UpdateScript' was built locally..
+[2020.02.04-17.03.33:591][427]69047_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2020.02.04-17.03.35:433][559]LogNiagaraEditor: Verbose: '/Engine/Transient' Precompile took 0.053698 sec.
+[2020.02.04-17.03.35:470][560]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:InfluencerEmitter.SpawnScript ...................................................................
+[2020.02.04-17.03.35:470][560]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:InfluencerEmitter.UpdateScript ...................................................................
+[2020.02.04-17.03.35:639][573]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:InfluencerEmitter.SpawnScript took 0.199086 sec (0.010686/0.188222)... Status NCS_UpToDate
+[2020.02.04-17.03.35:642][573]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:InfluencerEmitter.SpawnScript' was built locally..
+[2020.02.04-17.03.35:714][579]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:InfluencerEmitter.UpdateScript took 0.279431 sec (0.014065/0.080680)... Status NCS_UpToDate
+[2020.02.04-17.03.35:716][579]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:InfluencerEmitter.UpdateScript' was built locally..
+[2020.02.04-17.03.35:781][581]69047_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2020.02.04-17.03.38:017][738]LogNiagaraEditor: Verbose: '/Engine/Transient' Precompile took 0.051551 sec.
+[2020.02.04-17.03.38:053][739]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:InfluencerEmitter.SpawnScript ...................................................................
+[2020.02.04-17.03.38:053][739]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:InfluencerEmitter.UpdateScript ...................................................................
+[2020.02.04-17.03.38:210][751]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:InfluencerEmitter.SpawnScript took 0.183885 sec (0.010346/0.173381)... Status NCS_UpToDate
+[2020.02.04-17.03.38:213][751]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:InfluencerEmitter.SpawnScript' was built locally..
+[2020.02.04-17.03.38:286][757]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:InfluencerEmitter.UpdateScript took 0.263648 sec (0.013817/0.080063)... Status NCS_UpToDate
+[2020.02.04-17.03.38:288][757]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:InfluencerEmitter.UpdateScript' was built locally..
+[2020.02.04-17.03.38:348][759]69047_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2020.02.04-17.03.40:332][903]LogNiagaraEditor: Verbose: '/Engine/Transient' Precompile took 0.046531 sec.
+[2020.02.04-17.03.40:366][904]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:InfluencerEmitter.SpawnScript ...................................................................
+[2020.02.04-17.03.40:366][904]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:InfluencerEmitter.UpdateScript ...................................................................
+[2020.02.04-17.03.40:525][917]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:InfluencerEmitter.SpawnScript took 0.189541 sec (0.010120/0.179338)... Status NCS_UpToDate
+[2020.02.04-17.03.40:528][917]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:InfluencerEmitter.SpawnScript' was built locally..
+[2020.02.04-17.03.40:611][923]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:InfluencerEmitter.UpdateScript took 0.274209 sec (0.013529/0.084863)... Status NCS_UpToDate
+[2020.02.04-17.03.40:615][923]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:InfluencerEmitter.UpdateScript' was built locally..
+[2020.02.04-17.03.40:681][925]69047_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2020.02.04-17.03.42:353][ 51]LogNiagaraEditor: Verbose: '/Engine/Transient' Precompile took 0.041533 sec.
+[2020.02.04-17.03.42:383][ 52]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:InfluencerEmitter.SpawnScript ...................................................................
+[2020.02.04-17.03.42:383][ 52]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:InfluencerEmitter.UpdateScript ...................................................................
+[2020.02.04-17.03.42:544][ 65]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:InfluencerEmitter.SpawnScript took 0.188804 sec (0.009971/0.178735)... Status NCS_UpToDate
+[2020.02.04-17.03.42:547][ 65]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:InfluencerEmitter.SpawnScript' was built locally..
+[2020.02.04-17.03.42:621][ 70]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:InfluencerEmitter.UpdateScript took 0.260758 sec (0.013212/0.072128)... Status NCS_UpToDate
+[2020.02.04-17.03.42:623][ 70]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:InfluencerEmitter.UpdateScript' was built locally..
+[2020.02.04-17.03.42:677][ 72]69047_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2020.02.04-17.03.49:611][641]LogNiagaraEditor: Verbose: '/Engine/Transient' Precompile took 0.041232 sec.
+[2020.02.04-17.03.49:660][642]69047_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2020.02.04-17.03.50:622][712]LogNiagaraEditor: Saving and Compiling NiagaraEmitter InfluencerEmitter
+[2020.02.04-17.03.50:642][712]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ParticleSystems/InfluencerEmitter" FILE="C:/Users/User.USER-PC/Documents/Unreal Projects/FlockingTest/Content/ParticleSystems/InfluencerEmitter.uasset" SILENT=true
+[2020.02.04-17.03.50:704][712]LogSavePackage: Moving 'C:/Users/User.USER-PC/Documents/Unreal Projects/FlockingTest/Saved/InfluencerEmitterD5C493344DB676F6520901BA1F0AB5A0.tmp' to 'C:/Users/User.USER-PC/Documents/Unreal Projects/FlockingTest/Content/ParticleSystems/InfluencerEmitter.uasset'
+[2020.02.04-17.03.50:719][712]AssetCheck: New page: Asset Save: InfluencerEmitter
+[2020.02.04-17.03.50:719][712]LogContentValidation: Display: Validating NiagaraEmitter /Game/ParticleSystems/InfluencerEmitter.InfluencerEmitter
+[2020.02.04-17.04.03:155][358]LogNiagaraEditor: Verbose: '/Engine/Transient' Precompile took 0.046690 sec.
+[2020.02.04-17.04.03:180][359]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:InfluencerEmitter.SpawnScript ...................................................................
+[2020.02.04-17.04.03:180][359]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:InfluencerEmitter.UpdateScript ...................................................................
+[2020.02.04-17.04.03:353][366]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:InfluencerEmitter.SpawnScript took 0.174138 sec (0.011679/0.162360)... Status NCS_UpToDate
+[2020.02.04-17.04.03:357][366]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:InfluencerEmitter.SpawnScript' was built locally..
+[2020.02.04-17.04.03:408][370]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:InfluencerEmitter.UpdateScript took 0.245385 sec (0.015928/0.071459)... Status NCS_UpToDate
+[2020.02.04-17.04.03:410][370]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:InfluencerEmitter.UpdateScript' was built locally..
+[2020.02.04-17.04.03:466][372]69047_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2020.02.04-17.04.07:228][701]LogNiagaraEditor: Verbose: '/Engine/Transient' Precompile took 0.040257 sec.
+[2020.02.04-17.04.07:261][702]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:InfluencerEmitter.SpawnScript ...................................................................
+[2020.02.04-17.04.07:261][702]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:InfluencerEmitter.UpdateScript ...................................................................
+[2020.02.04-17.04.07:409][714]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:InfluencerEmitter.SpawnScript took 0.178947 sec (0.010111/0.168742)... Status NCS_UpToDate
+[2020.02.04-17.04.07:409][714]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:InfluencerEmitter.SpawnScript' was built locally..
+[2020.02.04-17.04.07:497][721]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:InfluencerEmitter.UpdateScript took 0.267833 sec (0.013610/0.088985)... Status NCS_UpToDate
+[2020.02.04-17.04.07:499][721]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:InfluencerEmitter.UpdateScript' was built locally..
+[2020.02.04-17.04.07:558][723]69047_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2020.02.04-17.04.12:640][165]LogAssetEditorSubsystem: Opening Asset editor for NiagaraEmitter /Game/ParticleSystems/RibbonEmitter.RibbonEmitter
+[2020.02.04-17.04.12:783][165]82246_NiagaraSystem_1_MessageLog: System compile status unknown with 0 warning(s) and 0 error(s).
+[2020.02.04-17.04.12:811][165]LogNiagaraEditor: Verbose: '/Engine/Transient' Precompile took 0.026590 sec.
+[2020.02.04-17.04.12:833][165]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_1:SystemSpawnScript ...................................................................
+[2020.02.04-17.04.12:833][165]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_1:SystemUpdateScript ...................................................................
+[2020.02.04-17.04.12:871][166]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_1:SystemSpawnScript took 0.052706 sec (0.001706/0.050941)... Status NCS_UpToDate
+[2020.02.04-17.04.12:882][166]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_1:SystemSpawnScript' was built locally..
+[2020.02.04-17.04.12:963][170]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_1:SystemUpdateScript took 0.147166 sec (0.006560/0.094532)... Status NCS_UpToDate
+[2020.02.04-17.04.12:965][170]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_1:SystemUpdateScript' was built locally..
+[2020.02.04-17.04.13:013][172]82246_NiagaraSystem_1_MessageLog: System successfully compiled.
+[2020.02.04-17.04.35:516][922]LogNiagaraEditor: Verbose: '/Engine/Transient' Precompile took 0.040679 sec.
+[2020.02.04-17.04.35:588][924]69047_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2020.02.04-17.04.36:481][990]LogNiagaraEditor: Verbose: '/Engine/Transient' Precompile took 0.042120 sec.
+[2020.02.04-17.04.36:498][991]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:InfluencerEmitter.SpawnScript ...................................................................
+[2020.02.04-17.04.36:498][991]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:InfluencerEmitter.UpdateScript ...................................................................
+[2020.02.04-17.04.36:498][991]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:InfluencerEmitter.EventScript_0 ...................................................................
+[2020.02.04-17.04.36:664][  5]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:InfluencerEmitter.SpawnScript took 0.180250 sec (0.010721/0.169379)... Status NCS_UpToDate
+[2020.02.04-17.04.36:667][  5]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:InfluencerEmitter.SpawnScript' was built locally..
+[2020.02.04-17.04.36:733][ 10]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:InfluencerEmitter.UpdateScript took 0.248379 sec (0.014376/0.068263)... Status NCS_UpToDate
+[2020.02.04-17.04.36:733][ 10]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:InfluencerEmitter.UpdateScript' was built locally..
+[2020.02.04-17.04.36:788][ 13]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:InfluencerEmitter.EventScript_0 took 0.300165 sec (0.014751/0.052062)... Status NCS_UpToDate
+[2020.02.04-17.04.36:791][ 13]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:InfluencerEmitter.EventScript_0' was built locally..
+[2020.02.04-17.04.36:875][ 15]69047_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2020.02.04-17.04.42:430][436]LogNiagaraEditor: Verbose: '/Engine/Transient' Precompile took 0.041934 sec.
+[2020.02.04-17.04.42:455][437]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:InfluencerEmitter.SpawnScript ...................................................................
+[2020.02.04-17.04.42:455][437]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:InfluencerEmitter.UpdateScript ...................................................................
+[2020.02.04-17.04.42:455][437]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:InfluencerEmitter.EventScript_0 ...................................................................
+[2020.02.04-17.04.42:623][443]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:InfluencerEmitter.SpawnScript took 0.176410 sec (0.012753/0.163565)... Status NCS_UpToDate
+[2020.02.04-17.04.42:628][444]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:InfluencerEmitter.SpawnScript' was built locally..
+[2020.02.04-17.04.42:687][449]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:InfluencerEmitter.UpdateScript took 0.249690 sec (0.016921/0.073491)... Status NCS_UpToDate
+[2020.02.04-17.04.42:689][449]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:InfluencerEmitter.UpdateScript' was built locally..
+[2020.02.04-17.04.42:746][454]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:InfluencerEmitter.EventScript_0 took 0.313646 sec (0.017572/0.064171)... Status NCS_UpToDate
+[2020.02.04-17.04.42:748][454]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:InfluencerEmitter.EventScript_0' was built locally..
+[2020.02.04-17.04.42:805][456]69047_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2020.02.04-17.10.15:005][365]LogNiagaraEditor: Verbose: '/Game/ParticleSystems/System' Precompile took 0.114807 sec.
+[2020.02.04-17.10.15:084][366]LogNiagaraEditor: Compiling System NiagaraScript /Game/ParticleSystems/System.System:SystemSpawnScript ...................................................................
+[2020.02.04-17.10.15:084][366]LogNiagaraEditor: Compiling System NiagaraScript /Game/ParticleSystems/System.System:SystemUpdateScript ...................................................................
+[2020.02.04-17.10.15:084][366]LogNiagaraEditor: Compiling System NiagaraScript /Game/ParticleSystems/System.System:SystemSpawnScript took 0.063507 sec (0.005241/0.058192)... Status NCS_UpToDate
+[2020.02.04-17.10.15:103][366]LogNiagara: UNiagraScript 'NiagaraScript /Game/ParticleSystems/System.System:SystemSpawnScript' was built locally..
+[2020.02.04-17.10.15:339][373]LogNiagaraEditor: Compiling System NiagaraScript /Game/ParticleSystems/System.System:SystemUpdateScript took 0.300864 sec (0.019383/0.237750)... Status NCS_UpToDate
+[2020.02.04-17.10.15:345][374]LogNiagara: UNiagraScript 'NiagaraScript /Game/ParticleSystems/System.System:SystemUpdateScript' was built locally..
+[2020.02.04-17.10.15:469][376]60029_System_MessageLog: System successfully compiled.
+[2020.02.04-17.10.24:971][900]LogNiagaraEditor: Verbose: '/Game/ParticleSystems/System' Precompile took 0.103677 sec.
+[2020.02.04-17.10.24:997][901]LogNiagaraEditor: Compiling System NiagaraScript /Game/ParticleSystems/System.System:SpriteEmitter(1)_0.SpawnScript_6 ...................................................................
+[2020.02.04-17.10.24:997][901]LogNiagaraEditor: Compiling System NiagaraScript /Game/ParticleSystems/System.System:SpriteEmitter(1)_0.UpdateScript_7 ...................................................................
+[2020.02.04-17.10.24:997][901]LogNiagaraEditor: Compiling System NiagaraScript /Game/ParticleSystems/System.System:SpriteEmitter(1)_0.EventScript_0 ...................................................................
+[2020.02.04-17.10.25:171][908]LogNiagaraEditor: Compiling System NiagaraScript /Game/ParticleSystems/System.System:SpriteEmitter(1)_0.SpawnScript_6 took 0.172685 sec (0.009760/0.162844)... Status NCS_UpToDate
+[2020.02.04-17.10.25:176][909]LogNiagara: UNiagraScript 'NiagaraScript /Game/ParticleSystems/System.System:SpriteEmitter(1)_0.SpawnScript_6' was built locally..
+[2020.02.04-17.10.25:210][911]LogNiagaraEditor: Compiling System NiagaraScript /Game/ParticleSystems/System.System:SpriteEmitter(1)_0.UpdateScript_7 took 0.236525 sec (0.013045/0.064076)... Status NCS_UpToDate
+[2020.02.04-17.10.25:212][911]LogNiagara: UNiagraScript 'NiagaraScript /Game/ParticleSystems/System.System:SpriteEmitter(1)_0.UpdateScript_7' was built locally..
+[2020.02.04-17.10.25:271][912]LogNiagaraEditor: Compiling System NiagaraScript /Game/ParticleSystems/System.System:SpriteEmitter(1)_0.EventScript_0 took 0.289771 sec (0.013358/0.053519)... Status NCS_UpToDate
+[2020.02.04-17.10.25:276][913]LogNiagara: UNiagraScript 'NiagaraScript /Game/ParticleSystems/System.System:SpriteEmitter(1)_0.EventScript_0' was built locally..
+[2020.02.04-17.10.25:385][915]60029_System_MessageLog: System successfully compiled.
+[2020.02.04-17.10.41:595][859]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:SystemSpawnScript
+[2020.02.04-17.10.41:595][859]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:SystemUpdateScript
+[2020.02.04-17.10.41:595][859]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:RibbonEmitter(1)_1.SpawnScript_7
+[2020.02.04-17.10.41:595][859]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:RibbonEmitter(1)_1.UpdateScript_8
+[2020.02.04-17.10.41:595][859]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:RibbonEmitter(1)_1.EmitterSpawnScript_9
+[2020.02.04-17.10.41:595][859]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:RibbonEmitter(1)_1.EmitterUpdateScript_10
+[2020.02.04-17.10.41:595][859]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:RibbonEmitter(1)_1.EventScript_12
+[2020.02.04-17.10.41:707][859]LogNiagaraEditor: Verbose: '/Game/ParticleSystems/System' Precompile took 0.111366 sec.
+[2020.02.04-17.10.41:779][859]LogNiagaraEditor: Compiling System NiagaraScript /Game/ParticleSystems/System.System:SystemSpawnScript ...................................................................
+[2020.02.04-17.10.41:779][859]LogNiagaraEditor: Compiling System NiagaraScript /Game/ParticleSystems/System.System:SystemUpdateScript ...................................................................
+[2020.02.04-17.10.41:779][859]LogNiagaraEditor: Compiling System NiagaraScript /Game/ParticleSystems/System.System:SystemSpawnScript took 0.055544 sec (0.003942/0.051554)... Status NCS_UpToDate
+[2020.02.04-17.10.41:779][859]LogNiagara: UNiagraScript 'NiagaraScript /Game/ParticleSystems/System.System:SystemSpawnScript' was built locally..
+[2020.02.04-17.10.41:953][868]LogNiagaraEditor: Compiling System NiagaraScript /Game/ParticleSystems/System.System:SystemUpdateScript took 0.245009 sec (0.015079/0.189740)... Status NCS_UpToDate
+[2020.02.04-17.10.41:954][868]LogNiagara: UNiagraScript 'NiagaraScript /Game/ParticleSystems/System.System:SystemUpdateScript' was built locally..
+[2020.02.04-17.10.41:954][868]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:RibbonEmitter(1)_1.SpawnScript_7
+[2020.02.04-17.10.41:954][868]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:RibbonEmitter(1)_1.UpdateScript_8
+[2020.02.04-17.10.41:954][868]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:RibbonEmitter(1)_1.EmitterSpawnScript_9
+[2020.02.04-17.10.41:954][868]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:RibbonEmitter(1)_1.EmitterUpdateScript_10
+[2020.02.04-17.10.41:955][868]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:RibbonEmitter(1)_1.EventScript_12
+[2020.02.04-17.10.42:050][870]60029_System_MessageLog: System successfully compiled.
+[2020.02.04-17.10.46:511][168]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:SystemSpawnScript
+[2020.02.04-17.10.46:511][168]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:SystemUpdateScript
+[2020.02.04-17.10.46:511][168]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:RibbonEmitter(1)_1.SpawnScript_7
+[2020.02.04-17.10.46:511][168]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:RibbonEmitter(1)_1.UpdateScript_8
+[2020.02.04-17.10.46:511][168]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:RibbonEmitter(1)_1.EmitterSpawnScript_9
+[2020.02.04-17.10.46:511][168]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:RibbonEmitter(1)_1.EmitterUpdateScript_10
+[2020.02.04-17.10.46:511][168]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:RibbonEmitter(1)_1.EventScript_12
+[2020.02.04-17.10.46:657][168]LogNiagaraEditor: Verbose: '/Game/ParticleSystems/System' Precompile took 0.145431 sec.
+[2020.02.04-17.10.46:830][169]60029_System_MessageLog: System successfully compiled.
+[2020.02.04-17.10.48:411][269]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:SystemSpawnScript
+[2020.02.04-17.10.48:411][269]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:SystemUpdateScript
+[2020.02.04-17.10.48:411][269]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:InfluencerEmitter.SpawnScript
+[2020.02.04-17.10.48:411][269]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:InfluencerEmitter.UpdateScript
+[2020.02.04-17.10.48:411][269]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:InfluencerEmitter.EmitterSpawnScript
+[2020.02.04-17.10.48:411][269]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:InfluencerEmitter.EmitterUpdateScript
+[2020.02.04-17.10.48:505][269]LogNiagaraEditor: Verbose: '/Game/ParticleSystems/System' Precompile took 0.094521 sec.
+[2020.02.04-17.10.48:578][269]LogNiagaraEditor: Compiling System NiagaraScript /Game/ParticleSystems/System.System:SystemSpawnScript ...................................................................
+[2020.02.04-17.10.48:578][269]LogNiagaraEditor: Compiling System NiagaraScript /Game/ParticleSystems/System.System:SystemUpdateScript ...................................................................
+[2020.02.04-17.10.48:578][269]LogNiagaraEditor: Compiling System NiagaraScript /Game/ParticleSystems/System.System:SystemSpawnScript took 0.054878 sec (0.003297/0.051514)... Status NCS_UpToDate
+[2020.02.04-17.10.48:578][269]LogNiagara: UNiagraScript 'NiagaraScript /Game/ParticleSystems/System.System:SystemSpawnScript' was built locally..
+[2020.02.04-17.10.48:717][277]LogNiagaraEditor: Compiling System NiagaraScript /Game/ParticleSystems/System.System:SystemUpdateScript took 0.204684 sec (0.012105/0.150081)... Status NCS_UpToDate
+[2020.02.04-17.10.48:719][277]LogNiagara: UNiagraScript 'NiagaraScript /Game/ParticleSystems/System.System:SystemUpdateScript' was built locally..
+[2020.02.04-17.10.48:740][277]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:InfluencerEmitter.SpawnScript
+[2020.02.04-17.10.48:740][277]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:InfluencerEmitter.UpdateScript
+[2020.02.04-17.10.48:740][277]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:InfluencerEmitter.EmitterSpawnScript
+[2020.02.04-17.10.48:740][277]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:InfluencerEmitter.EmitterUpdateScript
+[2020.02.04-17.10.48:806][279]60029_System_MessageLog: System successfully compiled.
+[2020.02.04-17.12.57:876][332]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:SystemSpawnScript
+[2020.02.04-17.12.57:877][332]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:SystemUpdateScript
+[2020.02.04-17.12.57:877][332]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:InfluencerEmitter.SpawnScript
+[2020.02.04-17.12.57:877][332]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:InfluencerEmitter.UpdateScript
+[2020.02.04-17.12.57:877][332]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:InfluencerEmitter.EmitterSpawnScript
+[2020.02.04-17.12.57:877][332]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:InfluencerEmitter.EmitterUpdateScript
+[2020.02.04-17.12.58:017][332]LogNiagaraEditor: Verbose: '/Game/ParticleSystems/System' Precompile took 0.139973 sec.
+[2020.02.04-17.12.58:213][333]60029_System_MessageLog: System successfully compiled.
+[2020.02.04-17.13.13:566][163]LogNiagaraEditor: Verbose: '/Game/ParticleSystems/System' Precompile took 0.113024 sec.
+[2020.02.04-17.13.13:663][164]60029_System_MessageLog: System successfully compiled.
+[2020.02.04-17.13.13:994][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ParticleSystems/System" FILE="C:/Users/User.USER-PC/Documents/Unreal Projects/FlockingTest/Content/ParticleSystems/System.uasset" SILENT=true
+[2020.02.04-17.13.14:273][182]LogSavePackage: Moving 'C:/Users/User.USER-PC/Documents/Unreal Projects/FlockingTest/Saved/System72ACBB884038AB838778FC9AD3BFF5DA.tmp' to 'C:/Users/User.USER-PC/Documents/Unreal Projects/FlockingTest/Content/ParticleSystems/System.uasset'
+[2020.02.04-17.13.14:293][182]AssetCheck: New page: Asset Save: System
+[2020.02.04-17.13.14:293][182]LogContentValidation: Display: Validating NiagaraSystem /Game/ParticleSystems/System.System
+[2020.02.04-17.13.22:127][884]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.04-17.13.22:147][884]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.02.04-17.13.22:149][884]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.04-17.13.22:150][884]PIE: New page: PIE session: Minimal_Default (4 Feb 2020, 17:13:22)
+[2020.02.04-17.13.22:151][884]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.02.04-17.13.22:153][884]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.02.04-17.13.22:154][884]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.02.04-17.13.22:159][884]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004699s)
+[2020.02.04-17.13.22:160][884]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.02.04-17.13.22:161][884]LogPlayLevel: PIE: World Init took: (0.002154s)
+[2020.02.04-17.13.22:161][884]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.007152s)
+[2020.02.04-17.13.22:206][884]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2020.02.04-17.13.22:212][884]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.04-17.13.22:212][884]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.04-17.13.22:212][884]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.04-17.13.22:212][884]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.04-17.13.22:212][884]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.04-17.13.22:212][884]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.04-17.13.22:212][884]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.04-17.13.22:212][884]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.04-17.13.22:213][884]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.04-17.13.22:213][884]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.04-17.13.22:225][884]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.04-17.13.22:225][884]LogAudioMixer: Display: Name: Headset Earphone (Sennheiser Communication Audio)
+[2020.02.04-17.13.22:225][884]LogAudioMixer: Display: Is Default: Yes
+[2020.02.04-17.13.22:225][884]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.04-17.13.22:225][884]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.04-17.13.22:225][884]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.04-17.13.22:225][884]LogAudioMixer: Display: Channel Order:
+[2020.02.04-17.13.22:225][884]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.04-17.13.22:225][884]LogAudioMixer: Display: 1: FrontRight
+[2020.02.04-17.13.22:236][884]LogAudioMixer: Display: Using Audio Device Headset Earphone (Sennheiser Communication Audio)
+[2020.02.04-17.13.22:237][884]LogInit: FAudioDevice initialized.
+[2020.02.04-17.13.22:253][884]LogLoad: Game class is 'GameModeBase'
+[2020.02.04-17.13.22:261][884]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2020.02.04-17.13.22
+[2020.02.04-17.13.22:262][884]LogWorld: Bringing up level for play took: 0.001508
+[2020.02.04-17.13.22:263][884]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2020.02.04-17.13.22:279][884]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.02.04-17.13.22:284][884]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.732
+[2020.02.04-17.13.22:284][884]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.02.04-17.13.48:084][802]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.04-17.13.48:084][802]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.04-17.13.48:086][802]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.02.04-17.13.48:087][802]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.04-17.13.48:087][802]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.02.04-17.13.48:088][802]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.04-17.13.48:088][802]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2020.02.04-17.13.48:088][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.04-17.13.48:108][802]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.04-17.13.48:109][802]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.02.04-17.13.48:115][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.04-17.13.48:153][802]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.04-17.13.48:157][802]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.04-17.13.48:162][802]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2020.02.04-17.13.48:193][803]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.02.04-17.13.50:834][940]LogEditorViewport: Clicking on Actor (LMB): NiagaraActor (System)
+[2020.02.04-17.13.51:736][970]Cmd: DELETE
+[2020.02.04-17.13.51:736][970]Cmd: ACTOR DELETE
+[2020.02.04-17.13.51:751][970]LogEditorActor: Deleted Actor: NiagaraActor
+[2020.02.04-17.13.51:789][970]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2020.02.04-17.13.51:793][970]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2020.02.04-17.13.54:973][251]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:SystemSpawnScript
+[2020.02.04-17.13.54:973][251]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:SystemUpdateScript
+[2020.02.04-17.13.54:973][251]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:InfluencerEmitter.SpawnScript
+[2020.02.04-17.13.54:973][251]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:InfluencerEmitter.UpdateScript
+[2020.02.04-17.13.54:973][251]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:InfluencerEmitter.EmitterSpawnScript
+[2020.02.04-17.13.54:973][251]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:InfluencerEmitter.EmitterUpdateScript
+[2020.02.04-17.13.55:065][251]LogNiagaraEditor: Verbose: '/Game/ParticleSystems/System' Precompile took 0.091891 sec.
+[2020.02.04-17.13.55:106][251]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:InfluencerEmitter.SpawnScript
+[2020.02.04-17.13.55:107][251]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:InfluencerEmitter.UpdateScript
+[2020.02.04-17.13.55:107][251]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:InfluencerEmitter.EmitterSpawnScript
+[2020.02.04-17.13.55:107][251]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:InfluencerEmitter.EmitterUpdateScript
+[2020.02.04-17.13.55:217][252]60029_System_MessageLog: System successfully compiled.
+[2020.02.04-17.14.39:592][668]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.02.04-17.14.39:972][668]LogSavePackage: Moving 'C:/Users/User.USER-PC/Documents/Unreal Projects/FlockingTest/Saved/Minimal_Default_Auto110D763EB4F1C4698B047D292A0081962.tmp' to 'C:/Users/User.USER-PC/Documents/Unreal Projects/FlockingTest/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
+[2020.02.04-17.14.39:977][668]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.436
+[2020.02.04-17.14.39:977][668]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.436
+[2020.02.04-17.14.39:978][668]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ParticleSystems/System] ([1] browsable assets)...
+[2020.02.04-17.14.39:978][668]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParticleSystems/System]
+[2020.02.04-17.14.40:257][668]LogSavePackage: Moving 'C:/Users/User.USER-PC/Documents/Unreal Projects/FlockingTest/Saved/System_Auto139E50C8D481052F5B05F4982C9928D2E.tmp' to 'C:/Users/User.USER-PC/Documents/Unreal Projects/FlockingTest/Saved/Autosaves/Game/ParticleSystems/System_Auto1.uasset'
+[2020.02.04-17.14.40:264][668]LogFileHelpers: Auto-saving content packages took 0.286
+[2020.02.04-17.16.38:854][388]LogNiagaraEditor: Verbose: '/Game/ParticleSystems/System' Precompile took 0.071137 sec.
+[2020.02.04-17.16.38:892][389]LogNiagaraEditor: Compiling System NiagaraScript /Game/ParticleSystems/System.System:SpriteEmitter(1)_0.SpawnScript_6 ...................................................................
+[2020.02.04-17.16.38:892][389]LogNiagaraEditor: Compiling System NiagaraScript /Game/ParticleSystems/System.System:SpriteEmitter(1)_0.UpdateScript_7 ...................................................................
+[2020.02.04-17.16.38:892][389]LogNiagaraEditor: Compiling System NiagaraScript /Game/ParticleSystems/System.System:SpriteEmitter(1)_0.EventScript_11 ...................................................................
+[2020.02.04-17.16.39:052][397]LogNiagaraEditor: Compiling System NiagaraScript /Game/ParticleSystems/System.System:SpriteEmitter(1)_0.SpawnScript_6 took 0.188179 sec (0.009658/0.178406)... Status NCS_UpToDate
+[2020.02.04-17.16.39:055][397]LogNiagara: UNiagraScript 'NiagaraScript /Game/ParticleSystems/System.System:SpriteEmitter(1)_0.SpawnScript_6' was built locally..
+[2020.02.04-17.16.39:119][401]LogNiagaraEditor: Compiling System NiagaraScript /Game/ParticleSystems/System.System:SpriteEmitter(1)_0.UpdateScript_7 took 0.254838 sec (0.012149/0.066448)... Status NCS_UpToDate
+[2020.02.04-17.16.39:121][401]LogNiagara: UNiagraScript 'NiagaraScript /Game/ParticleSystems/System.System:SpriteEmitter(1)_0.UpdateScript_7' was built locally..
+[2020.02.04-17.16.39:160][403]LogNiagaraEditor: Compiling System NiagaraScript /Game/ParticleSystems/System.System:SpriteEmitter(1)_0.EventScript_11 took 0.304651 sec (0.012456/0.049899)... Status NCS_UpToDate
+[2020.02.04-17.16.39:163][403]LogNiagara: UNiagraScript 'NiagaraScript /Game/ParticleSystems/System.System:SpriteEmitter(1)_0.EventScript_11' was built locally..
+[2020.02.04-17.16.39:185][403]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:InfluencerEmitter.SpawnScript
+[2020.02.04-17.16.39:185][403]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:InfluencerEmitter.UpdateScript
+[2020.02.04-17.16.39:185][403]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:InfluencerEmitter.EmitterSpawnScript
+[2020.02.04-17.16.39:185][403]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:InfluencerEmitter.EmitterUpdateScript
+[2020.02.04-17.16.39:252][405]60029_System_MessageLog: System successfully compiled.
+[2020.02.04-17.16.43:515][646]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:SystemSpawnScript
+[2020.02.04-17.16.43:515][646]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:SystemUpdateScript
+[2020.02.04-17.16.43:515][646]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:InfluencerEmitter.SpawnScript
+[2020.02.04-17.16.43:515][646]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:InfluencerEmitter.UpdateScript
+[2020.02.04-17.16.43:515][646]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:InfluencerEmitter.EmitterSpawnScript
+[2020.02.04-17.16.43:515][646]LogNiagara: InvalidateCompileResults /Game/ParticleSystems/System.System:InfluencerEmitter.EmitterUpdateScript
+[2020.02.04-17.16.43:663][646]LogNiagaraEditor: Verbose: '/Game/ParticleSystems/System' Precompile took 0.148445 sec.
+[2020.02.04-17.16.43:857][647]60029_System_MessageLog: System successfully compiled.
+[2020.02.04-17.19.10:014][785]LogNiagaraEditor: Verbose: '/Game/ParticleSystems/System' Precompile took 0.111034 sec.
+[2020.02.04-17.19.10:047][786]LogNiagaraEditor: Compiling System NiagaraScript /Game/ParticleSystems/System.System:SpriteEmitter(1)_0.SpawnScript_6 ...................................................................
+[2020.02.04-17.19.10:047][786]LogNiagaraEditor: Compiling System NiagaraScript /Game/ParticleSystems/System.System:SpriteEmitter(1)_0.UpdateScript_7 ...................................................................
+[2020.02.04-17.19.10:047][786]LogNiagaraEditor: Compiling System NiagaraScript /Game/ParticleSystems/System.System:SpriteEmitter(1)_0.EventScript_0 ...................................................................
+[2020.02.04-17.19.10:207][796]LogNiagaraEditor: Compiling System NiagaraScript /Game/ParticleSystems/System.System:SpriteEmitter(1)_0.SpawnScript_6 took 0.184353 sec (0.010233/0.174026)... Status NCS_UpToDate
+[2020.02.04-17.19.10:209][796]LogNiagara: UNiagraScript 'NiagaraScript /Game/ParticleSystems/System.System:SpriteEmitter(1)_0.SpawnScript_6' was built locally..
+[2020.02.04-17.19.10:280][799]LogNiagaraEditor: Compiling System NiagaraScript /Game/ParticleSystems/System.System:SpriteEmitter(1)_0.UpdateScript_7 took 0.249937 sec (0.013211/0.065775)... Status NCS_UpToDate
+[2020.02.04-17.19.10:283][799]LogNiagara: UNiagraScript 'NiagaraScript /Game/ParticleSystems/System.System:SpriteEmitter(1)_0.UpdateScript_7' was built locally..
+[2020.02.04-17.19.10:358][801]LogNiagaraEditor: Compiling System NiagaraScript /Game/ParticleSystems/System.System:SpriteEmitter(1)_0.EventScript_0 took 0.315931 sec (0.014687/0.066291)... Status NCS_UpToDate
+[2020.02.04-17.19.10:364][802]LogNiagara: UNiagraScript 'NiagaraScript /Game/ParticleSystems/System.System:SpriteEmitter(1)_0.EventScript_0' was built locally..
+[2020.02.04-17.19.10:467][804]60029_System_MessageLog: System successfully compiled.
+[2020.02.04-17.19.14:693][ 63]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.02.04-17.19.14:694][ 63]LogWindows: Windows GetLastError: The operation completed successfully. (0)
